@@ -33,18 +33,20 @@ En definitiva, Cubikate parece un proyecto más trabajado a primera vista y que 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-
-
+Nuestra primera persona es Antonio Gutierrez, un autonomo que quiere dar un giro a su negocio de informática alquilando un local nuevo. Es un ejemplo clásico de un empresario o autonomo que quiere alquilar una oficina en Cubikate para su negocio.
 ![Imagen](P1/persona1.png) 
 
+La segunda persona es Cristina Montero, una chica emprendedora que decidió crear un periodico antibulos pero que su local se le ha quedado pequeño debido al crecimiento que ha tenido su diario. Este tipo de persona exigente puede sacar a relucir carencias de la página y nos puede servir para añadir nueva funcionalidades o corregir los existentes.
 ![Imagen](P1/persona2.png) 
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+Antonio Gutierrez quiere dar un giro a su negocio que se empieza a estancar por lo que decide cambiar de local. Descubre lo que es el coworking y se pone en contacto con Cubikate para alquilar una oficina. A pesar de que no puede mudar su negocio del todo, esta nueva oportunidad le sirve para dividir esfuerzos y modularizar el trabajo dependiendo la función que haya de desempeña. 
 ![Imagen](P1/journey1.png) 
 
+Cristina al ver el 'boom' que ha supuesto su periodico se ve en la obligación de contratar a más empleados para dar covertura a la demanda que tiene ya el periodico, por lo que busca nuevas opciones. Decide meterse en Cubikate para ver que le pueden ofrecer y tras ver el ambiente y las opciones alquila una oficina, pero la oficina que ha alquilado no tiene ningun coworker cerca que le sea de utilidad para su periodico, por lo que podriamos ver una funcionalidad que podríamos añadir en un futuro:
 ![Imagen](P1/journey2.png) 
-
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
