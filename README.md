@@ -4,11 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Coworking)
 Grupo: DIU 3ºB.  Curso: 2019/20 
 
 Proyecto: 
-Estudio de apps de coworking
+Cubikate
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Estudio y analisis de Cubikate, que es una aplicación de coworking para poder alquilar locales para pequeñas empresas, autónomos o emprendedores. 
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
