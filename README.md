@@ -34,14 +34,18 @@ En definitiva, Cubikate parece un proyecto más trabajado a primera vista y que 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-![Método UX](P1/persona1.png) 
+
+![Imagen](P1/persona1.png) 
+
+![Imagen](P1/persona2.png) 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
+![Imagen](P1/journey1.png) 
+
+![Imagen](P1/journey2.png) 
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
