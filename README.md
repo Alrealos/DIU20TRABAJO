@@ -5,6 +5,7 @@ Grupo: DIU 3ºB.  Curso: 2019/20
 
 Proyecto: 
 Estudio de apps de coworking
+
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
@@ -13,7 +14,7 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Alvaro Repole Alonso     :octocat:     
+ * :bust_in_silhouette:   Alvaro Repole Alonso     :https://github.com/Alrealos:     
 
 
 ----- 
