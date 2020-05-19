@@ -19,14 +19,6 @@ Miembros
 
 ----- 
 
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -34,7 +26,10 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Antes de empezar el propio análisis de Cubikate, vamos a ver qué otras opciones hay en el mercado para así poder compararb y sacar a la luz las virtudes y los defectos de la aplicación. Una de las opciones que tenemos es ErrantT. Lo que podemos ver a primera vista es que ErrantT tiene una interfaz más simple y menos funcional. En cuanto a nivel funcional, ambos presentan una estructura similar: cabeceras con menús con opciones, cuerpo en el que explican el motivo de la aplicación, enlaces a redes sociales, mapa con la ubicación del sitio. 
+Ambos sitios web son bastante parecidos, pero Cubikate tiene más presencia visual y es más intuitivo, teniendo más elementos en la pagina principal y estando más ordenado. Además, Cubikate tiene una parte del cuerpo del sitio web con mensajes que han puesto los usuarios de la página, dando una buena primera impresión y una sensación de comunidad dentro de la aplicación.
+En definitiva, Cubikate parece un proyecto más trabajado a primera vista y que es capaz de atraer la atención del público, pero gracias a este análisis podremos ver sus puntos débiles y ayudar a mejorarlo.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
