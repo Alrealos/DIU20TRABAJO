@@ -90,7 +90,15 @@ Realizamos el site-map, donde seguimos teniendo una estructura sencilla y clara,
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Coworking | Espacio de cooperacion de trabajadores indepenpendientes
+  Arrendatario | Persona que alquila un local o una oficina
+  Reservar Oficina |Alquiler de un espacio en las instalaciones de Cubikate
+  Mi cuenta | Perfil del usuario registrado
+  Oficina Virtual | Espacio privado de un grupo que tiene una oficina alquilada.
+  Itinerario | Planning de la oficina
+  Calendario | Plan mensual de eventos en una oficina
+  Foro | Chat en el que los coworkers pueden interacturar.
+
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
