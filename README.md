@@ -51,7 +51,7 @@ Cristina al ver el 'boom' que ha supuesto su periodico se ve en la obligación d
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
-![UX-REVIEW](P1/UX-review-pdf)
+![UX-REVIEW](P1/UX-review.pdf)
 Valoración Final: 80*
 
 El Usability Review que hemos hecho nos muestra que el sitio web se caracteriza por la simpleza, por ofrecer información concisa y una estructura que no da lugar a malinterpretaciones. Si lo enfocamos desde una perspectiva de mejora, deberíamos poner los N/A de UX en Very poor en cuanto a las funcionalidades de las que carece la página. Esto bajaría la nota a 70 (comprobado), por lo que tendríamos muchos ámbitos en los que poder mejorar la experiencia de usuario. En definitiva una aplicación con margen de mejora pero que ofrece lo necesario para que la página sea utilizable.
