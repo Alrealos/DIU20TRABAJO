@@ -91,8 +91,9 @@ Realizamos el site-map, donde seguimos teniendo una estructura sencilla y clara,
 Término | Significado     
 | ------------- | -------
   Coworking | Espacio de cooperacion de trabajadores indepenpendientes
+  Coworkers | Personas que trabajan en un espacio de coworking
   Arrendatario | Persona que alquila un local o una oficina
-  Reservar Oficina |Alquiler de un espacio en las instalaciones de Cubikate
+  Reservar Oficina | Alquiler de un espacio en las instalaciones de Cubikate
   Mi cuenta | Perfil del usuario registrado
   Oficina Virtual | Espacio privado de un grupo que tiene una oficina alquilada.
   Itinerario | Planning de la oficina
