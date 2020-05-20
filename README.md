@@ -74,7 +74,7 @@ En definitiva con unas cuantas nuevas funcionalidades podemos darle otro toque y
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![MatrizTareas](P2/MatrizTareas.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
