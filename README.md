@@ -42,11 +42,11 @@ La segunda persona es Cristina Montero, una chica emprendedora que decidió crea
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-Antonio Gutierrez quiere dar un giro a su negocio que se empieza a estancar por lo que decide cambiar de local. Descubre lo que es el coworking y se pone en contacto con Cubikate para alquilar una oficina. A pesar de que no puede mudar su negocio del todo, esta nueva oportunidad le sirve para dividir esfuerzos y modularizar el trabajo dependiendo la función que haya de desempeña. 
-![Imagen](P1/journey1.png) 
+Antonio Gutierrez quiere dar un giro a su negocio que se empieza a estancar por lo que decide cambiar de local. Descubre lo que es el coworking y se pone en contacto con Cubikate para alquilar una oficina. Tras hablarlo con su equipo, decide alquilar una oficina en la que poder negociar con proveedores y aliviar trabajo en el taller, pero echa en falta algunas cosas en la página:
+![Imagen](P1/journey1v2.png) 
 
-Cristina al ver el 'boom' que ha supuesto su periodico se ve en la obligación de contratar a más empleados para dar covertura a la demanda que tiene ya el periodico, por lo que busca nuevas opciones. Decide meterse en Cubikate para ver que le pueden ofrecer y tras ver el ambiente y las opciones alquila una oficina, pero la oficina que ha alquilado no tiene ningun coworker cerca que le sea de utilidad para su periodico, por lo que podriamos ver una funcionalidad que podríamos añadir en un futuro:
-![Imagen](P1/journey2.png) 
+Cristina al ver el 'boom' que ha supuesto su periodico se ve en la obligación de contratar a más empleados para dar covertura a la demanda que tiene ya el periodico, por lo que busca nuevas opciones. Decide meterse en Cubikate para ver que le pueden ofrecer y tras ver el ambiente y las opciones alquila una oficina para poder trabajar con otros coworkers y poder usar sus recursos y conocimiento para mejorar su empresa, pero la falta de un foro o un chat para poder hablar con otros coworkers dificulta su idea:
+![Imagen](P1/journey2v2.png) 
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
@@ -67,9 +67,22 @@ El Usability Review que hemos hecho nos muestra que el sitio web se caracteriza 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesante 
+ - 
+ -
+ -| Críticas   
+ -
+ -
+ -
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  Preguntas
+  -
+  -
+  -
+  | Nuevas ideas
+  -
+  -
+  -
   
   
   
