@@ -76,6 +76,11 @@ En definitiva con unas cuantas nuevas funcionalidades podemos darle otro toque y
 Primero realizamos una matriz de tareas/usuarios para ver qué tareas son más importantes y para qué usuarios. Diferenciamos 3 tipos de usuarios: Visitantes, que tienen una navegabilidad parecida a la actualmente tenemos ahora, Jefes de los grupos/arrendadatarios, que organizan su espacio online y tienen capacidad de añadir o quitar coworkers del grupo, y los propios coworkers, que usan la página de una manera más fluida, haciendo uso del calendario y del itinerario, foro, etc...
 ![MatrizTareas](P2/MatrizTareas.png)
 
+Realizamos el site-map, donde seguimos teniendo una estructura sencilla y clara, con apartado bien diferenciados:
+
+![site-map](P2/site-map.png)
+
+
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
