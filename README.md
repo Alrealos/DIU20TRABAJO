@@ -81,12 +81,10 @@ Realizamos el site-map, donde seguimos teniendo una estructura sencilla y clara,
 ![site-map](P2/site-map.png)
 
 
-
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
+Definimos unos términos para mejorar la interacción entre el usuario y la página:
 
 Término | Significado     
 | ------------- | -------
