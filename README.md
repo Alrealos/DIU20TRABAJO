@@ -63,33 +63,13 @@ El Usability Review que hemos hecho nos muestra que el sitio web se caracteriza 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante 
- - 
- -
- -| Críticas   
- -
- -
- -
-| ------------- | -------
-  Preguntas
-  -
-  -
-  -
-  | Nuevas ideas
-  -
-  -
-  -
+![FCG](P2/fcg.png)
   
   
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+Cubikate posee una pagina elegante y sencilla que ofrece con solvencia información acerca del coworking y sus instalaciones. Pero esa sencillez de puede percibir como algo negativo ya que se podría mejorar mucho la presencia de la página añadiendo una serie de funcionalidades que ayude a los usuarios que la visiten. Primero, se podría añadir un sistema de gestión  de usuarios para que los visitantes tengan su espacio propio y personalizable, con calendarios e itinerarios para los que tengan una oficina alquilada. También se podría ampliar la información y modularizarla gracias a un buscador que facilite el encontrarla. Además, dado que no todos los coworkers estarán en la oficina a la vez, se puede habilitar un espacio en el que puedan charlar o dejar opiniones o lo que consideren para que sus compañeros lo vean y se forme un pequeña comunidad para mejorar las relaciones entre estos.
+En definitiva con unas cuantas nuevas funcionalidades podemos darle otro toque y mejorar notablemente la experiencia de usuario.
+
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
