@@ -139,4 +139,5 @@ Gracias a este patrón el sitio web se adapa tanto a las resoluciones de tablets
 En cuanto al diseño de la página, se optaría por el mismo patrón de colores, ya que gracia a la extensión de google Accessibility Insights for Web hemos podido comprobar que de acuerdo a las pautas WCAG 2 el contraste es correcto. De hecho, el único problema de la página está en el formulario como bien dijimos antes, ya que no hay suficiente contraste entre las letras predeterminadas y el fondo del mismo formulario. Este mismo diseño se aplicaría a las nuevas funcionalidades manteniendo la fuente de letra, la cual es legible y correcta, manteniendo el tono azul con el contraste en blanco.
 Por último, podríamos añadir la opción de activar el modo oscuro, por lo que deberiamos adaptar el estilo para esta opción.
 
-*Conclusión:
+# Conclusión:
+Hemos adaptado un página web que era buena en lineas generales pero con pocas funcionalidades y le hemos añadido unas cuantas opciones que mejoraran la experiencia de usuario teniendo un espacio personal, atraerá más usuarios y fomentará las relaciones entre los mismos. En definitva, le hemos dado más opciones manteniendo el estilo elegante y simple que caracterizaba a la página y que queremos transmitir a nuestros clientes.
