@@ -115,7 +115,7 @@ Mi cuenta: En este apartado tenemos una foto con el perfil del coworker, con un 
 ![template](P2/Cuenta-template.png)
 
 -Oficina Virtual: Posiblemente la funcionalidad nueva más importante, donde los coworker pueden ver el calendario y el itinerario de su grupo/empresa en las oficinas de Cubikate. Además, hay un mini chat donde pueden dejar mensajes para que los vean los otros compañeros. El Jefe/lider tendría una pestaña donde podría añadir o quitar permisos de visualización-escritura a sus empleados.
-![template](P2/OficinaVrtual-template.png)
+![template](P2/OficinaVirtual-template.png)
 
 -Foro: En el foro los coworkers de todos los grupos podrán conversar y dejar opiniones, charlas, dudas, aclaraciones, quedadas, etc... Estarían dividido en subforos con diferentes tematicas y los mensajes estarían diferenciados por el nombre y el grupo/empresa al que pertenece el coworker.
 ![template](P2/Foro-template.png)
