@@ -14,16 +14,16 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Alvaro Repole Alonso     :https://github.com/Alrealos:     
+ * :bust_in_silhouette:   Alvaro Repole Alonso    
 
 
 ----- 
 
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+## UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) Competitive Analysis
 -----
 
 Antes de empezar el propio análisis de Cubikate, vamos a ver qué otras opciones hay en el mercado para así poder compararb y sacar a la luz las virtudes y los defectos de la aplicación. Una de las opciones que tenemos es ErrantT. Lo que podemos ver a primera vista es que ErrantT tiene una interfaz más simple y menos funcional. En cuanto a nivel funcional, ambos presentan una estructura similar: cabeceras con menús con opciones, cuerpo en el que explican el motivo de la aplicación, enlaces a redes sociales, mapa con la ubicación del sitio. 
@@ -31,7 +31,7 @@ Ambos sitios web son bastante parecidos, pero Cubikate tiene más presencia visu
 En definitiva, Cubikate parece un proyecto más trabajado a primera vista y que es capaz de atraer la atención del público, pero gracias a este análisis podremos ver sus puntos débiles y ayudar a mejorarlo.
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) Persona
 -----
 Nuestra primera persona es Antonio Gutierrez, un autonomo que quiere dar un giro a su negocio de informática alquilando un local nuevo. Es un ejemplo clásico de un empresario o autonomo que quiere alquilar una oficina en Cubikate para su negocio.
 ![Imagen](P1/persona1.png) 
@@ -40,7 +40,7 @@ La segunda persona es Cristina Montero, una chica emprendedora que decidió crea
 ![Imagen](P1/persona2.png) 
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) User Journey Map
 ----
 Antonio Gutierrez quiere dar un giro a su negocio que se empieza a estancar por lo que decide cambiar de local. Descubre lo que es el coworking y se pone en contacto con Cubikate para alquilar una oficina. Tras hablarlo con su equipo, decide alquilar una oficina en la que poder negociar con proveedores y aliviar trabajo en el taller, pero echa en falta algunas cosas en la página:
 ![Imagen](P1/journey1v2.png) 
@@ -49,7 +49,7 @@ Cristina al ver el 'boom' que ha supuesto su periodico se ve en la obligación d
 ![Imagen](P1/journey2v2.png) 
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Usability Review
 ----
 ![UX-REVIEW](P1/UX-review.pdf)
 Valoración Final: 80*
@@ -57,10 +57,10 @@ Valoración Final: 80*
 El Usability Review que hemos hecho nos muestra que el sitio web se caracteriza por la simpleza, por ofrecer información concisa y una estructura que no da lugar a malinterpretaciones. Si lo enfocamos desde una perspectiva de mejora, deberíamos poner los N/A de UX en Very poor en cuanto a las funcionalidades de las que carece la página. Esto bajaría la nota a 70 (comprobado), por lo que tendríamos muchos ámbitos en los que poder mejorar la experiencia de usuario. En definitiva una aplicación con margen de mejora pero que ofrece lo necesario para que la página sea utilizable.
 
 
-## Paso 2. UX Design  
+##  UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
 ----
 
 ![FCG](P2/fcg.png)
@@ -71,7 +71,7 @@ En definitiva con unas cuantas nuevas funcionalidades podemos darle otro toque y
 
 
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) Tasks & Sitemap 
 -----
 Primero realizamos una matriz de tareas/usuarios para ver qué tareas son más importantes y para qué usuarios. Diferenciamos 3 tipos de usuarios: Visitantes, que tienen una navegabilidad parecida a la actualmente tenemos ahora, Jefes de los grupos/arrendadatarios, que organizan su espacio online y tienen capacidad de añadir o quitar coworkers del grupo, y los propios coworkers, que usan la página de una manera más fluida, haciendo uso del calendario y del itinerario, foro, etc...
 ![MatrizTareas](P2/MatrizTareas.png)
@@ -81,7 +81,7 @@ Realizamos el site-map, donde seguimos teniendo una estructura sencilla y clara,
 ![site-map](P2/site-map.png)
 
 
-![Método UX](img/labelling.png) 2.c Labelling 
+![Método UX](img/labelling.png) Labelling 
 ----
 
 Definimos unos términos para mejorar la interacción entre el usuario y la página:
@@ -100,7 +100,7 @@ Término | Significado
 
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) Wireframes
 -----
 Realizaremos unos templates para ver como quedaría la página resultante. Los bocetos al ser en blanco y negro no se muestran los colores, pero sigue en la misma linea de la pagina actual de Cubikate, con un diseño simple y elegante:
 
@@ -115,91 +115,23 @@ Mi cuenta: En este apartado tenemos una foto con el perfil del coworker, con un 
 ![template](P2/Cuenta-template.png)
 
 -Oficina Virtual: Posiblemente la funcionalidad nueva más importante, donde los coworker pueden ver el calendario y el itinerario de su grupo/empresa en las oficinas de Cubikate. Además, hay un mini chat donde pueden dejar mensajes para que los vean los otros compañeros. El Jefe/lider tendría una pestaña donde podría añadir o quitar permisos de visualización-escritura a sus empleados.
-![template](P2/OficinaVirtual-template.png)
+![template](P2/OficinalVirtual-template.png)
 
 -Foro: En el foro los coworkers de todos los grupos podrán conversar y dejar opiniones, charlas, dudas, aclaraciones, quedadas, etc... Estarían dividido en subforos con diferentes tematicas y los mensajes estarían diferenciados por el nombre y el grupo/empresa al que pertenece el coworker.
 ![template](P2/Foro-template.png)
 
 
 
-
-## Paso 3. Mi equipo UX-Case Study 
-
-
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-
->>> Analizar lo aprendido de la experiencia MuseApp 
-
-![Método UX](img/landing-page.png)  3.b Logotipo
+![Método UX](img/landing-page.png) Logotipo
 ----
 
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) Guidelines
 ----
 
 >>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Video
-----
-
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
-
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
-
-
-![Método UX](img/Survey.png). 4.c Ranking 
-----
-
->>> Concluya con un ranking de los casos evaluados 
-
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
-
 
 
 
