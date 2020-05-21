@@ -10,8 +10,8 @@ Descripción:
 
 Estudio y analisis de Cubikate, que es una aplicación de coworking para poder alquilar locales para pequeñas empresas, autónomos o emprendedores. 
 
-Miembros
- * :bust_in_silhouette:   Alvaro Repole Alonso    
+Realizado por:
+ * :bust_in_silhouette:   Alvaro Repole Alonso -(77203230G)   
 
 
 ----- 
