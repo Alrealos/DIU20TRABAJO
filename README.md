@@ -103,7 +103,17 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![template](P2/PaginaPrincipal-template.png)
+
+![template](P2/Login-template.png)
+
+![template](P2/Cuenta-template.png)
+
+![template](P2/OficinaVrtual-template.png)
+
+![template](P2/Foro-template.png)
+
+
 
 
 ## Paso 3. Mi equipo UX-Case Study 
