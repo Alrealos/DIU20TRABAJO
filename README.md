@@ -1,5 +1,5 @@
-# DIU20
-Prácticas Diseño Interfaces de Usuario 2019-20 (Coworking) 
+# DIU20 Trabajo Final
+Diseño Interfaces de Usuario (Coworking) 
 
 Grupo: DIU 3ºB.  Curso: 2019/20 
 
