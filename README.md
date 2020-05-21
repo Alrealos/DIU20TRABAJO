@@ -135,3 +135,8 @@ Así quedarían las distintas resoluciones:
 ![resolucion](P3/mostly-fluid.png)
 
 Gracias a este patrón el sitio web se adapa tanto a las resoluciones de tablets, móviles y ordenadores con versatilidad. Además es muy fácil de implementar ya que solo se necesita un punto de ruptura en el código de la página.
+
+En cuanto al diseño de la página, se optaría por el mismo patrón de colores, ya que gracia a la extensión de google Accessibility Insights for Web hemos podido comprobar que de acuerdo a las pautas WCAG 2 el contraste es correcto. De hecho, el único problema de la página está en el formulario como bien dijimos antes, ya que no hay suficiente contraste entre las letras predeterminadas y el fondo del mismo formulario. Este mismo diseño se aplicaría a las nuevas funcionalidades manteniendo la fuente de letra, la cual es legible y correcta, manteniendo el tono azul con el contraste en blanco.
+Por último, podríamos añadir la opción de activar el modo oscuro, por lo que deberiamos adaptar el estilo para esta opción.
+
+*Conclusión:
