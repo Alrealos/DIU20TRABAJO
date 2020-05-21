@@ -104,35 +104,33 @@ Término | Significado
 -----
 Realizaremos unos templates para ver como quedaría la página resultante. Los bocetos al ser en blanco y negro no se muestran los colores, pero sigue en la misma linea de la pagina actual de Cubikate, con un diseño simple y elegante:
 
+
 -Pagina Principal: La página principal seguira teniendo un diseño muy parecido pero con algunos cambios en el menú, añadiendo opciones y una barra para buscar más facilmente por la página.
 El boton de ayuda sigue estando en la parte inferior izquierda y si seguimos bajando todo sigue igual.
 ![template](P2/PaginaPrincipal-template.png)
 
+
 -Login: A esta pagina llegaremos si no estamos registrados en la pagina y pulsamos en alguna de las opciones Mi cuenta, Foro y Oficina Virtual.
 ![template](P2/Login-template.png)
+
 
 Mi cuenta: En este apartado tenemos una foto con el perfil del coworker, con un espacio reservado para añadir sus gadgets y organizar su espacio propio. Si vemos la cuenta de otro coworker, veriamos lo mismo pero sin las ocpiones de modificar cuenta, datos o espacio propio.
 ![template](P2/Cuenta-template.png)
 
+
 -Oficina Virtual: Posiblemente la funcionalidad nueva más importante, donde los coworker pueden ver el calendario y el itinerario de su grupo/empresa en las oficinas de Cubikate. Además, hay un mini chat donde pueden dejar mensajes para que los vean los otros compañeros. El Jefe/lider tendría una pestaña donde podría añadir o quitar permisos de visualización-escritura a sus empleados.
 ![template](P2/OficinalVirtual-template.png)
+
 
 -Foro: En el foro los coworkers de todos los grupos podrán conversar y dejar opiniones, charlas, dudas, aclaraciones, quedadas, etc... Estarían dividido en subforos con diferentes tematicas y los mensajes estarían diferenciados por el nombre y el grupo/empresa al que pertenece el coworker.
 ![template](P2/Foro-template.png)
 
 
 
-![Método UX](img/landing-page.png) Logotipo
-----
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
 ![Método UX](img/guidelines.png) Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-
+Tras ver el buen funcionamieno general del reescalado de la página(solo falla una imagen al reescalarse), dejeremos el patrón de diseño que está implementado, que es el de Mostly Fluid. En este patrón en las resoluciones medianas los contenidos de la página de ajustar a los margenes horizontales. Para resoluciones máximas el contenido quedaría en el centro de la página con unos margenes muy grandes. En el caso de resoluciones pequeñas, la cuadricula fluida genera el contenido principal y el resto de columnas se agrupan verticalmente debajo.
+Así quedarían las distintas resoluciones:
 
 
