@@ -132,5 +132,6 @@ Mi cuenta: En este apartado tenemos una foto con el perfil del coworker, con un 
 
 Tras ver el buen funcionamieno general del reescalado de la página(solo falla una imagen al reescalarse), dejeremos el patrón de diseño que está implementado, que es el de Mostly Fluid. En este patrón en las resoluciones medianas los contenidos de la página de ajustar a los margenes horizontales. Para resoluciones máximas el contenido quedaría en el centro de la página con unos margenes muy grandes. En el caso de resoluciones pequeñas, la cuadricula fluida genera el contenido principal y el resto de columnas se agrupan verticalmente debajo.
 Así quedarían las distintas resoluciones:
+![resolucion](P3/mostly-fluid.png)
 
-
+Gracias a este patrón el sitio web se adapa tanto a las resoluciones de tablets, móviles y ordenadores con versatilidad. Además es muy fácil de implementar ya que solo se necesita un punto de ruptura en el código de la página.
